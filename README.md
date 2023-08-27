@@ -39,16 +39,16 @@
  
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amann-patell&show_icons=true&locale=en&layout=compact" alt="amanpatel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amannpatel&show_icons=true&locale=en&layout=compact" alt="amanpatel" /></p>
 
 
      
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amann-patell&show_icons=true&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amannpatel&show_icons=true&theme=radical)
 
 <br><br>
 
-<a href="https://github.com/amann-patell/amann-patell">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amann-patell&theme=radical&hide_border=true)](https://github.com/amann-patell" alt="Aman's GitHub Stats Graph"/>
+<a href="https://github.com/amannpatel/amannpatel">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amannpatel&theme=radical&hide_border=true)](https://github.com/amann-patell" alt="Aman's GitHub Stats Graph"/>
 </a>
 <br><br>
 
@@ -56,7 +56,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{amann-patell}/count.svg" alt="amanpatel :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{amannpatel}/count.svg" alt="amanpatel :: Visitor's Count" /></p>
 
 <img height="120" alt="Thanks for visiting " background="#111111" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
